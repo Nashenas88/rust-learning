@@ -1,0 +1,3 @@
+[submodule "rust-linked-list"]
+	path = rust-linked-list
+	url = git@github.com:Nashenas88/rust-linked-list.git
